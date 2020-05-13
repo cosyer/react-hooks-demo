@@ -13,14 +13,6 @@ code {
     monospace;
 }
 
-.btn {
-  position: absolute;
-  margin-top: 10px;
-  left: 50%;
-  margin-left: -50px !important;
-  width: 100px;
-}
-
 .list div {
   text-align: center;
   vertical-align: middle;
@@ -28,4 +20,8 @@ code {
   width: 100%;
   height: 35 px;
   border-bottom: 1px solid gainsboro;
+}
+
+.mt10 {
+  margin-top: 10px;
 }
